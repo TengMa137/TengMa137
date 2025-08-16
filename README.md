@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matt Teng
 
-I'm an **AI and Backend Software Engineer** passionate about building high-performance, scalable systems. I specialize in **C++, Python, and C**, and I enjoy designing robust backend architectures, developing data pipelines, and deploying production-ready machine learning solutions.
+I'm an **AI and Fullstack/Backend Software Engineer** passionate about building high-performance, scalable systems. I specialize in **C++, Python, and C**, and I enjoy designing robust backend architectures, developing data pipelines, and deploying production-ready machine learning solutions.
 
 💻 **Areas of expertise:**
 - AI & Machine Learning: LLM Agents, Deep Learning, RAG systems, Autonomous Agents
